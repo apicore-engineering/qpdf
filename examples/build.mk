@@ -6,6 +6,7 @@ BINS_examples = \
 	pdf-custom-filter \
 	pdf-double-page-size \
 	pdf-filter-tokens \
+	pdf-form-filler \
 	pdf-invert-images \
 	pdf-mod-info \
 	pdf-name-number-tree \
